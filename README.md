@@ -8,7 +8,7 @@ CREATE DATABASE InventoryDB
 USE InventoryDB
 
 
-/*2. Create a Items Table*/
+/* 2. Create a Items Table*/
 
 /*Create a table called Items with the following fields:*/
 
